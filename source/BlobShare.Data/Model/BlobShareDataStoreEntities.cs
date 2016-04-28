@@ -5,7 +5,6 @@
     using System.Data.EntityClient;
     using System.Globalization;
     using System.Security.Permissions;
-    using Microsoft.WindowsAzure.ServiceRuntime;
 
     public partial class BlobShareDataStoreEntities
     {
